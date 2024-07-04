@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 2400,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": {
+    "id": "potpourri:cooked_rotten_flesh"
+  }
+}

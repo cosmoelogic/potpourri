@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "potpourri:cooked_rotten_flesh"
+    },
+    {
+      "item": "potpourri:cooked_spider_eye"
+    },
+    {
+      "item": "potpourri:cooked_pufferfish"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "potpourri:potpourri"
+  }
+}

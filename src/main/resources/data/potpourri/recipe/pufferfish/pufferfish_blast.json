@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "food",
+  "cookingtime": 800,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "minecraft:pufferfish"
+  },
+  "result": {
+    "id": "potpourri:cooked_pufferfish"
+  }
+}

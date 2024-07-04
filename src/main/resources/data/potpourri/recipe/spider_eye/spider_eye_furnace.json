@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 1800,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "minecraft:spider_eye"
+  },
+  "result": {
+    "id": "potpourri:cooked_spider_eye"
+  }
+}
